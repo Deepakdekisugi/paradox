@@ -1,0 +1,56 @@
+{
+	"name": "club-site",
+	"version": "0.1.0",
+	"private": false,
+	"dependencies": {
+		"axios": "^0.21.1",
+		"date-fns": "^2.19.0",
+		"formik": "^2.2.6",
+		"react": "^17.0.1",
+		"react-component-export-image": "^1.0.5",
+		"react-dom": "^17.0.1",
+		"react-html-parser": "^2.0.2",
+		"react-icons": "^4.2.0",
+		"react-otp-input": "^2.3.0",
+		"react-particles-js": "^3.4.1",
+		"react-router-dom": "^5.2.0",
+		"react-scripts": "4.0.3",
+		"react-spinners": "^0.10.6",
+		"react-toastify": "^7.0.3",
+		"styled-components": "^5.2.1",
+		"web-vitals": "^1.1.1",
+		"yup": "^0.32.9"
+	},
+	"scripts": {
+		"format": "prettier --write \"**/*.{js,jsx,html,scss}\"",
+		"format:check": "prettier -c \"**/*.{js,jsx,html,scss}\"",
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app",
+			"react-app/jest"
+		]
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"prettier": "^2.2.1"
+	},
+	"resolutions": {
+		"jspdf/file-saver": "file-saver"
+	}
+}
