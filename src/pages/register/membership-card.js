@@ -56,7 +56,7 @@ export default function MembershipCard() {
 				component='button'
 				onClick={() =>
 					exportComponentAsPNG(membershipCard, {
-						fileName: `Infinite-Loop-${name.replace(' ', '-')}`,
+						fileName: `Paradox-${name.replace(' ', '-')}`,
 						html2CanvasOptions: { ...FRAME_SIZE }
 					})
 				}
