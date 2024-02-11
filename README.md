@@ -33,7 +33,7 @@ We welcome anyone with an interest in coding to join our community! Here's how y
 4. **Stay Connected**: Follow us on social media and join our Discord server to stay updated on club activities, connect with other members, and participate in discussions.
 
 ## Code of Conduct
-The Paradox Coding Club is committed to providing a welcoming and inclusive environment for all members. We expect all members to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure that everyone feels respected and valued within our community.
+The Paradox Coding Club is committed to providing a welcoming and inclusive environment for all members. We expect all members to adhere to our [Code of Conduct](https://github.com/codex-kundan/paradox/blob/main/src/components/CODE_OF_CONDUCT.md) to ensure that everyone feels respected and valued within our community.
 
 ## Get Started
 Ready to dive in? Check out our [Getting Started](GETTING_STARTED.md) guide for new members to learn how to get involved and make the most out of your experience with the Paradox Coding Club.
