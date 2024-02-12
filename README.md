@@ -36,7 +36,7 @@ We welcome anyone with an interest in coding to join our community! Here's how y
 The Paradox Coding Club is committed to providing a welcoming and inclusive environment for all members. We expect all members to adhere to our [Code of Conduct](https://github.com/codex-kundan/paradox/blob/main/src/components/CODE_OF_CONDUCT.md) to ensure that everyone feels respected and valued within our community.
 
 ## Get Started
-Ready to dive in? Check out our [Getting Started](GETTING_STARTED.md) guide for new members to learn how to get involved and make the most out of your experience with the Paradox Coding Club.
+Ready to dive in? Check out our [Getting Started](https://github.com/codex-kundan/paradox/blob/main/src/data/GETTING_STARTED.md) guide for new members to learn how to get involved and make the most out of your experience with the Paradox Coding Club.
 
 ## Contact Us
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [paradoxcodingclub@outlook.com](mailto:paradoxcodingclub@outlook.com). We'd love to hear from you!
