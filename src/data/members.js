@@ -73,7 +73,7 @@ const data = [
 					github: 'https://github.com/Deepakdekisugi',
 					linkedIn: 'https://www.linkedin.com/in/deepak-kumar4/',
 					twitter: 'https://twitter.com/santhoshvelr',
-					email: 'mailto:santhoshvelr@gmail.com',
+					email: 'mailto:dk376907@gmail.com',
 					portfolio: 'https://sandev.tech'
 				},
 				fromBenxene: true
@@ -99,9 +99,9 @@ const data = [
 				tag: 'To work genuinely!',
 				socialLinks: {
 					github: 'https://github.com/prinshu967',
-					twitter: '/',
 					linkedIn: 'https://www.linkedin.com/in/prinshu-kumar-b958401b0/',
 					email: 'mailto:prinshu967@gmail.com'
+					//twitter: '/',
 				}
 			}
 		]
@@ -118,9 +118,9 @@ const data = [
 				socialLinks: {
 					github: 'https://github.com/Pspns07',
 					linkedIn: 'https://www.linkedin.com/in/pawan-singh-52a6a6228/',
-					twitter: 'https://x.com/CePawansinghps?t=4xDvQfMIE6sNWpTxKQ9v7g&s=08',
 					email: 'mailto:pawansingh93343@gmail.com',
-					portfolio: 'https://sandev.tech'
+					//twitter: 'https://x.com/CePawansinghps?t=4xDvQfMIE6sNWpTxKQ9v7g&s=08',
+					//portfolio: 'https://sandev.tech'
 				},
 				fromBenxene: true
 			},
@@ -162,8 +162,9 @@ const data = [
 				tag: 'Life recruits different versions of you',
 				socialLinks: {
 					github: 'https://github.com/AnukulPr1me',
-					email: 'mailto:deepandhoni473@gmail.com',
+					email: 'mailto:anukul_chandra@outlook.com',
 					linkedIn: 'https://www.linkedin.com/in/anukul-chandra/',
+					portfolio: 'https://anukulprime.netlify.app/'
 					//twitter: 'https://twitter.com/DeepAn_Dj28?s=01'
 				},
 				fromBenxene: true
