@@ -39,6 +39,6 @@ The Paradox Coding Club is committed to providing a welcoming and inclusive envi
 Ready to dive in? Check out our [Getting Started](https://github.com/codex-kundan/paradox/blob/main/src/data/GETTING_STARTED.md) guide for new members to learn how to get involved and make the most out of your experience with the Paradox Coding Club.
 
 ## Contact Us
-If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [paradoxcodingclub@outlook.com](mailto:paradoxcodingclub@outlook.com). We'd love to hear from you!
+If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [paradoxcodingclub@outlook.com](mailto:paradoxcodingclub@outlook.com). We'd love to hear from you.
 
 Happy coding! 🚀
