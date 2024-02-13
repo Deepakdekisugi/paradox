@@ -60,7 +60,7 @@ const data = [
 					linkedIn: 'https://www.linkedin.com/in/kundan-kumar-b33265229/',
 					twitter: 'https://twitter.com/mugumugu20',
 					email: 'mailto:reachkundankumar@gmail.com',
-					portfolio: 'https://10digit.ml/'
+					//portfolio: 'https://10digit.ml/'
 				}
 			},
 			{
@@ -70,7 +70,7 @@ const data = [
 				year: 'II - CSE',
 				tag: `SELECT * FROM WORLD WHERE 'Someone' LIKE '%YOU%'`,
 				socialLinks: {
-					github: 'https://github.com/sank2000',
+					github: 'https://github.com/Deepakdekisugi',
 					linkedIn: 'https://www.linkedin.com/in/deepak-kumar4/',
 					twitter: 'https://twitter.com/santhoshvelr',
 					email: 'mailto:santhoshvelr@gmail.com',
@@ -101,7 +101,7 @@ const data = [
 					github: 'https://github.com/prinshu967',
 					twitter: '/',
 					linkedIn: 'https://www.linkedin.com/in/prinshu-kumar-b958401b0/',
-					email: 'mailto:sangavikrishna02@gmail.com'
+					email: 'mailto:prinshu967@gmail.com'
 				}
 			}
 		]
@@ -118,8 +118,8 @@ const data = [
 				socialLinks: {
 					github: 'https://github.com/Pspns07',
 					linkedIn: 'https://www.linkedin.com/in/pawan-singh-52a6a6228/',
-					twitter: 'https://twitter.com/santhoshvelr',
-					email: 'mailto:santhoshvelr@gmail.com',
+					twitter: 'https://x.com/CePawansinghps?t=4xDvQfMIE6sNWpTxKQ9v7g&s=08',
+					email: 'mailto:pawansingh93343@gmail.com',
 					portfolio: 'https://sandev.tech'
 				},
 				fromBenxene: true
@@ -147,10 +147,10 @@ const data = [
 				tag: `Before software can be reusable it first has to be usable.`,
 				socialLinks: {
 					github: 'https://github.com/Yashraj78yadav',
-					linkedIn: 'https://www.linkedin.com/in/pranav-g-7122111b5/',
-					twitter: 'https://twitter.com/pranavgpr',
-					email: 'mailto:pranav.gnanasekar23@gmail.com',
-					portfolio: 'https://realgpr.tech'
+					linkedIn: 'https://www.linkedin.com/in/yashraj-yadav-96b480233/',
+					email: 'mailto:yadavyashraj55@gmail.com',
+					//twitter: 'https://twitter.com/pranavgpr',
+					//portfolio: 'https://realgpr.tech'
 				},
 				fromBenxene: true
 			},
@@ -161,10 +161,10 @@ const data = [
 				year: 'III - CSE',
 				tag: 'Life recruits different versions of you',
 				socialLinks: {
-					github: 'https://github.com/DeepAnraj285',
+					github: 'https://github.com/AnukulPr1me',
 					email: 'mailto:deepandhoni473@gmail.com',
-					linkedIn: 'https://www.linkedin.com/in/deepan-raj-83181620b',
-					twitter: 'https://twitter.com/DeepAn_Dj28?s=01'
+					linkedIn: 'https://www.linkedin.com/in/anukul-chandra/',
+					//twitter: 'https://twitter.com/DeepAn_Dj28?s=01'
 				},
 				fromBenxene: true
 			},
@@ -176,10 +176,10 @@ const data = [
 				tag: 'I reborn when my pen kissed paper',
 				socialLinks: {
 					github: 'https://github.com/Yashwantyadav1',
-					linkedIn: 'https://www.linkedin.com/in/lakshmi-venkatakrishnan-924298199/',
-					twitter: 'https://twitter.com/Lakshmi2k1',
-					email: 'mailto:lakshmilatha342@gmail.com',
-					portfolio: 'https://www.yourquote.in/latha-lakshmi-bgfwp/quotes'
+					linkedIn: 'https://www.linkedin.com/in/yashwant-yadav-b05b38228/',
+					email: 'mailto:yy888275@gmail.com',
+					//twitter: 'https://twitter.com/Lakshmi2k1',
+					//portfolio: 'https://www.yourquote.in/latha-lakshmi-bgfwp/quotes'
 				},
 				fromBenxene: true
 			}
