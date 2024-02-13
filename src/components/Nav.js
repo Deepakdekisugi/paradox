@@ -42,6 +42,9 @@ export default function NavigationBar() {
 					<li path='/register' onClick={handleClick}>
 						Register
 					</li>
+					<li path='/Projects' onClick={handleClick}>
+						Projects
+					</li>
 				</ul>
 			</Nav>
 		</>
