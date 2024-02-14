@@ -6,7 +6,7 @@ const data = [
 		data: [
 			{
 				name: 'Dr. Sartaj Khan',
-				profile: 'https://www.linkedin.com/in/sartaj-khan-52149724b/overlay/photo/',
+				profile: 'https://avatars.githubusercontent.com/u/75940054?v=4',
 				designation: 'Head of the Department',
 				year: 'Faculty Advisor',
 				socialLinks: {
