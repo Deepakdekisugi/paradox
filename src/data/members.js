@@ -10,7 +10,7 @@ const data = [
 				designation: 'Head of the Department',
 				year: 'Faculty Advisor',
 				socialLinks: {
-					email: 'mailto:pooranikrish@gmail.com'
+					email: 'mailto:sartaj.khan@sce.org.in'
 				}
 			},
 			// {
