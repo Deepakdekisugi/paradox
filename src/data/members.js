@@ -21,16 +21,6 @@ const data = [
 			// 	socialLinks: {
 			// 		email: 'mailto:padmamayan@gmail.com'
 			// 	}
-			// },
-			// {
-			// 	name: 'Himanshu Suyal',
-			// 	profile: 'https://drive.google.com/uc?export=view&id=1eiLk_BiLTJDyVviEj8ni3nWwS7LW04uU',
-			// 	designation: 'Assistant Professor CSE',
-			// 	year: 'Faculty Advisor',
-			// 	socialLinks: {
-			// 		linkedIn: 'https://www.linkedin.com/in/dr-sankar-ram-chellappa-697b1b8b/',
-			// 		email: 'mailto:csankarraam@gmail.com'
-			// 	}
 			// }
 		]
 	},
