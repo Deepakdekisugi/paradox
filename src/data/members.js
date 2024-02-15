@@ -132,10 +132,10 @@ const data = [
 				tag: '(caffeine, chocolate, music) => code;',
 				socialLinks: {
 					github: 'https://github.com',
-					twitter: 'https://twitter.com/krish_the_dev',
-					linkedIn: 'https://www.linkedin.com/in/akrishnamoorthy007/',
-					email: 'mailto:akrishnamoorthy007@gmail.com',
-					portfolio: 'https://devkrish.tech'
+					linkedIn: 'https://www.linkedin.com/in/sudhanshu-singh-a896a5228/',
+					email: 'mailto:sudhanshusingh1326@gmail.com',
+					//twitter: 'https://twitter.com/krish_the_dev',
+					//portfolio: 'https://devkrish.tech'
 				},
 				fromBenxene: true
 			},
