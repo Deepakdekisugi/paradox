@@ -183,6 +183,21 @@ const data = [
 					//portfolio: 'https://www.yourquote.in/latha-lakshmi-bgfwp/quotes'
 				},
 				fromBenxene: true
+			},
+			{
+				name: 'Aditi Gupta',
+				profile: '/',
+				designation: 'volunteer',
+				year: 'II - CSE',
+				tag: 'Talking is love',
+				socialLinks: {
+					github: '/',
+					linkedIn: 'https://www.linkedin.com/in/aditi-gupta-0a5b74284/',
+					email: 'mailto:chinkigupta2004@gmail.com',
+					//twitter: 'https://twitter.com/Lakshmi2k1',
+					//portfolio: 'https://www.yourquote.in/latha-lakshmi-bgfwp/quotes'
+				},
+				fromBenxene: true
 			}
 		]
 	},
