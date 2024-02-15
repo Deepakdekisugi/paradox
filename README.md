@@ -42,4 +42,3 @@ Ready to dive in? Check out our [Getting Started](https://github.com/codex-kunda
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to us at [paradoxcodingclub@outlook.com](mailto:paradoxcodingclub@outlook.com). We'd love to hear from you.
 
 Happy coding! 🚀
-Let's code, learn, and grow together! 🚀
