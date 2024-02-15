@@ -6,11 +6,11 @@ const data = [
 		data: [
 			{
 				name: 'Dr. Sartaj Khan',
-				profile: 'https://www.linkedin.com/in/sartaj-khan-52149724b/overlay/photo/',
+				profile: 'https://avatars.githubusercontent.com/u/75940054?v=4',
 				designation: 'Head of the Department',
 				year: 'Faculty Advisor',
 				socialLinks: {
-					email: 'mailto:pooranikrish@gmail.com'
+					email: 'mailto:sartaj.khan@sce.org.in'
 				}
 			},
 			// {
@@ -20,16 +20,6 @@ const data = [
 			// 	year: 'Faculty Advisor',
 			// 	socialLinks: {
 			// 		email: 'mailto:padmamayan@gmail.com'
-			// 	}
-			// },
-			// {
-			// 	name: 'Himanshu Suyal',
-			// 	profile: 'https://drive.google.com/uc?export=view&id=1eiLk_BiLTJDyVviEj8ni3nWwS7LW04uU',
-			// 	designation: 'Assistant Professor CSE',
-			// 	year: 'Faculty Advisor',
-			// 	socialLinks: {
-			// 		linkedIn: 'https://www.linkedin.com/in/dr-sankar-ram-chellappa-697b1b8b/',
-			// 		email: 'mailto:csankarraam@gmail.com'
 			// 	}
 			// }
 		]
@@ -73,7 +63,7 @@ const data = [
 					github: 'https://github.com/Deepakdekisugi',
 					linkedIn: 'https://www.linkedin.com/in/deepak-kumar4/',
 					twitter: 'https://twitter.com/santhoshvelr',
-					email: 'mailto:santhoshvelr@gmail.com',
+					email: 'mailto:dk376907@gmail.com',
 					portfolio: 'https://sandev.tech'
 				},
 				fromBenxene: true
@@ -99,9 +89,9 @@ const data = [
 				tag: 'To work genuinely!',
 				socialLinks: {
 					github: 'https://github.com/prinshu967',
-					twitter: '/',
 					linkedIn: 'https://www.linkedin.com/in/prinshu-kumar-b958401b0/',
 					email: 'mailto:prinshu967@gmail.com'
+					//twitter: '/',
 				}
 			}
 		]
@@ -118,9 +108,9 @@ const data = [
 				socialLinks: {
 					github: 'https://github.com/Pspns07',
 					linkedIn: 'https://www.linkedin.com/in/pawan-singh-52a6a6228/',
-					twitter: 'https://x.com/CePawansinghps?t=4xDvQfMIE6sNWpTxKQ9v7g&s=08',
 					email: 'mailto:pawansingh93343@gmail.com',
-					portfolio: 'https://sandev.tech'
+					//twitter: 'https://x.com/CePawansinghps?t=4xDvQfMIE6sNWpTxKQ9v7g&s=08',
+					//portfolio: 'https://sandev.tech'
 				},
 				fromBenxene: true
 			},
@@ -132,10 +122,10 @@ const data = [
 				tag: '(caffeine, chocolate, music) => code;',
 				socialLinks: {
 					github: 'https://github.com',
-					twitter: 'https://twitter.com/krish_the_dev',
-					linkedIn: 'https://www.linkedin.com/in/akrishnamoorthy007/',
-					email: 'mailto:akrishnamoorthy007@gmail.com',
-					portfolio: 'https://devkrish.tech'
+					linkedIn: 'https://www.linkedin.com/in/sudhanshu-singh-a896a5228/',
+					email: 'mailto:sudhanshusingh1326@gmail.com',
+					//twitter: 'https://twitter.com/krish_the_dev',
+					//portfolio: 'https://devkrish.tech'
 				},
 				fromBenxene: true
 			},
@@ -162,8 +152,9 @@ const data = [
 				tag: 'Life recruits different versions of you',
 				socialLinks: {
 					github: 'https://github.com/AnukulPr1me',
-					email: 'mailto:deepandhoni473@gmail.com',
+					email: 'mailto:anukul_chandra@outlook.com',
 					linkedIn: 'https://www.linkedin.com/in/anukul-chandra/',
+					portfolio: 'https://anukulprime.netlify.app/'
 					//twitter: 'https://twitter.com/DeepAn_Dj28?s=01'
 				},
 				fromBenxene: true
@@ -178,6 +169,21 @@ const data = [
 					github: 'https://github.com/Yashwantyadav1',
 					linkedIn: 'https://www.linkedin.com/in/yashwant-yadav-b05b38228/',
 					email: 'mailto:yy888275@gmail.com',
+					//twitter: 'https://twitter.com/Lakshmi2k1',
+					//portfolio: 'https://www.yourquote.in/latha-lakshmi-bgfwp/quotes'
+				},
+				fromBenxene: true
+			},
+			{
+				name: 'Aditi Gupta',
+				profile: '/',
+				designation: 'volunteer',
+				year: 'II - CSE',
+				tag: 'Talking is love',
+				socialLinks: {
+					github: '/',
+					linkedIn: 'https://www.linkedin.com/in/aditi-gupta-0a5b74284/',
+					email: 'mailto:chinkigupta2004@gmail.com',
 					//twitter: 'https://twitter.com/Lakshmi2k1',
 					//portfolio: 'https://www.yourquote.in/latha-lakshmi-bgfwp/quotes'
 				},
