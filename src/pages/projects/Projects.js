@@ -54,7 +54,37 @@ const ProjectsContainer = styled.section`
   display: flex;
   flex-direction: column;
   align-items: center;
+
+  h1 {
+    line-height: 1.2em;
+    margin: 0.6em auto;
+    text-align: center;
+  }
+
+  h1.gradient {
+    background-image: linear-gradient(90deg, [primary-color] 20%, [secondary-color] 80%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  h1.margin-huge {
+    margin-bottom: .8em;
+  }
+
+  h1.margin-medium {
+    margin-bottom: .5em;
+  }
+
+  h1.margin-small {
+    margin-bottom: .3em;
+  }
+
+  h1 {
+    margin-bottom: .1em;
+  }
 `;
+
 
 const ProjectList = styled.div`
   display: flex;

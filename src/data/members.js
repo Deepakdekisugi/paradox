@@ -64,7 +64,7 @@ const data = [
 					linkedIn: 'https://www.linkedin.com/in/deepak-kumar4/',
 					twitter: 'https://twitter.com/santhoshvelr',
 					email: 'mailto:dk376907@gmail.com',
-					portfolio: 'https://sandev.tech'
+					//portfolio: 'https://sandev.tech'
 				},
 				fromBenxene: true
 			},
