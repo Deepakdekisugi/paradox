@@ -161,7 +161,7 @@ export default function RegisterForm() {
 									<label htmlFor='department'>Department</label>
 									<Field name='department' as='select' className='select'>
 										<option value=''>-- Select --</option>
-										{['CSE', 'IT'].map(dept => (
+										{['CSE', 'CE', 'ME','ECE'].map(dept => (
 											<option value={dept} key={dept}>
 												{dept}
 											</option>
