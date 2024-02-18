@@ -149,7 +149,7 @@ export default function RegisterForm() {
 									<label htmlFor='year'>Year</label>
 									<Field name='year' as='select' className='select'>
 										<option value=''>-- Select --</option>
-										{[...new Array(4)].map((_, idx) => (
+										{['1','2','3','4'].map(idx => (
 											<option value={idx} key={idx}>
 												{idx}
 											</option>
