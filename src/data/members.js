@@ -138,8 +138,8 @@ const data = [
 					github: 'https://github.com/Yashraj78yadav',
 					linkedIn: 'https://www.linkedin.com/in/yashraj-yadav-96b480233/',
 					email: 'mailto:yadavyashraj55@gmail.com',
-					//twitter: 'https://twitter.com/pranavgpr',
-					//portfolio: 'https://realgpr.tech'
+					//twitter: '/',
+					//portfolio: '/'
 				},
 				fromBenxene: true
 			},
@@ -154,7 +154,7 @@ const data = [
 					email: 'mailto:anukul_chandra@outlook.com',
 					linkedIn: 'https://www.linkedin.com/in/anukul-chandra/',
 					portfolio: 'https://anukulprime.netlify.app/'
-					//twitter: 'https://twitter.com/DeepAn_Dj28?s=01'
+					//twitter: '/'
 				},
 				fromBenxene: true
 			},
@@ -168,8 +168,8 @@ const data = [
 					github: 'https://github.com/Yashwantyadav1',
 					linkedIn: 'https://www.linkedin.com/in/yashwant-yadav-b05b38228/',
 					email: 'mailto:yy888275@gmail.com',
-					//twitter: 'https://twitter.com/Lakshmi2k1',
-					//portfolio: 'https://www.yourquote.in/latha-lakshmi-bgfwp/quotes'
+					//twitter: '/',
+					//portfolio: '/'
 				},
 				fromBenxene: true
 			},
@@ -183,8 +183,8 @@ const data = [
 					github: '/',
 					linkedIn: 'https://www.linkedin.com/in/aditi-gupta-0a5b74284/',
 					email: 'mailto:chinkigupta2004@gmail.com',
-					//twitter: 'https://twitter.com/Lakshmi2k1',
-					//portfolio: 'https://www.yourquote.in/latha-lakshmi-bgfwp/quotes'
+					//twitter: '/',
+					//portfolio: '/'
 				},
 				fromBenxene: true
 			}
