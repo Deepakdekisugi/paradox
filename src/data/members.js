@@ -1,4 +1,3 @@
-import styled from "styled-components";
 
 const data = [
 	{
@@ -19,7 +18,7 @@ const data = [
 			// 	designation: 'Assistant Professor CSE           ',
 			// 	year: 'Faculty Advisor',
 			// 	socialLinks: {
-			// 		email: 'mailto:padmamayan@gmail.com'
+			// 		email: 'mailto:/'
 			// 	}
 			// }
 		]
@@ -50,7 +49,7 @@ const data = [
 					linkedIn: 'https://www.linkedin.com/in/kundan-kumar-b33265229/',
 					twitter: 'https://twitter.com/mugumugu20',
 					email: 'mailto:reachkundankumar@gmail.com',
-					//portfolio: 'https://10digit.ml/'
+					//portfolio: '/'
 				}
 			},
 			{
@@ -64,7 +63,7 @@ const data = [
 					linkedIn: 'https://www.linkedin.com/in/deepak-kumar4/',
 					twitter: 'https://twitter.com/santhoshvelr',
 					email: 'mailto:dk376907@gmail.com',
-					//portfolio: 'https://sandev.tech'
+					//portfolio: '/'
 				},
 				fromBenxene: true
 			},
@@ -75,10 +74,10 @@ const data = [
 			// 	year: 'III - CSE',
 			// 	tag: 'ALL THINGS ARE POSSIBLE',
 			// 	socialLinks: {
-			// 		github: 'https://github.com/Thiru104',
-			// 		linkedIn: 'https://www.linkedin.com/in/thirumuruganm104/',
-			// 		twitter: 'https://twitter.com/engg_thiru',
-			// 		email: 'mailto:thiru10042002@gmail.com'
+			// 		github: '/',
+			// 		linkedIn: '/',
+			// 		twitter: '/',
+			// 		email: 'mailto:/'
 			// 	}
 			// },
 			{
@@ -109,8 +108,8 @@ const data = [
 					github: 'https://github.com/Pspns07',
 					linkedIn: 'https://www.linkedin.com/in/pawan-singh-52a6a6228/',
 					email: 'mailto:pawansingh93343@gmail.com',
-					//twitter: 'https://x.com/CePawansinghps?t=4xDvQfMIE6sNWpTxKQ9v7g&s=08',
-					//portfolio: 'https://sandev.tech'
+					//twitter: '/',
+					//portfolio: '/'
 				},
 				fromBenxene: true
 			},
@@ -124,8 +123,8 @@ const data = [
 					github: 'https://github.com',
 					linkedIn: 'https://www.linkedin.com/in/sudhanshu-singh-a896a5228/',
 					email: 'mailto:sudhanshusingh1326@gmail.com',
-					//twitter: 'https://twitter.com/krish_the_dev',
-					//portfolio: 'https://devkrish.tech'
+					//twitter: '/',
+					//portfolio: '/'
 				},
 				fromBenxene: true
 			},
