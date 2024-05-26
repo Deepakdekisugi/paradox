@@ -6,7 +6,8 @@ import Routers from './Routers';
 export default function AppRouter() {
 	return (
 		<ThemeProvider theme={colors}>
-			<GlobalStyles />
+			<GlobalStyles/>
+		// kya code hai yaar mst
 			<Router>
 				<Routers />
 			</Router>
