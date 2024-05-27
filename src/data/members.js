@@ -67,19 +67,19 @@ const data = [
 				},
 				fromBenxene: true
 			},
-			// {
-			// 	name: 'UJJWAL KUMAR',
-			// 	profile: 'https://drive.google.com/uc?export=view&id=1cYIgtg8QxP1ixBDncTZBdXAYyy-7Vrew',
-			// 	designation: 'Secretary',
-			// 	year: 'III - CSE',
-			// 	tag: 'ALL THINGS ARE POSSIBLE',
-			// 	socialLinks: {
-			// 		github: '/',
-			// 		linkedIn: '/',
-			// 		twitter: '/',
-			// 		email: 'mailto:/'
-			// 	}
-			// },
+			{
+				name: 'UJJWAL KUMAR',
+				profile: 'https://drive.google.com/uc?export=view&id=1cYIgtg8QxP1ixBDncTZBdXAYyy-7Vrew',
+				designation: 'Secretary',
+				year: 'III - CSE',
+				tag: 'ALL THINGS ARE POSSIBLE',
+				socialLinks: {
+					github: '/',
+					linkedIn: '/',
+					twitter: '/',
+					email: 'mailto:/'
+				}
+			},
 			{
 				name: 'Prinsu kumar',
 				profile: 'https://avatars.githubusercontent.com/u/118058374',
