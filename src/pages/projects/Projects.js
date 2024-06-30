@@ -1,10 +1,14 @@
 import React from 'react';
 import styled from 'styled-components';
 
+
+import { Container, Heading, Footer, LoaderContainer, Loader } from 'components';
 const ProjectSection = () => (
   <ProjectsContainer>
-    <h2>Browse Our Recent</h2>
-    <h1>Projects</h1>
+  <Heading gradient>
+    Browse Our Recent</Heading>
+    <Heading gradient>Projects</Heading>
+    
     <ProjectList>
       <ProjectContainer>
         <ColorContainer>
@@ -46,6 +50,46 @@ const ProjectSection = () => (
           </ButtonContainer>
         </ColorContainer>
       </ProjectContainer>
+      <ProjectContainer>
+        <ColorContainer>
+          <div className="article-container">
+            <ProjectImg
+              src='./images/project-1.png'
+              alt="Project 1"
+              className="project-img"
+            />
+          </div>
+          <ProjectTitle>Blog App</ProjectTitle>
+          <ButtonContainer>
+            <ProjectButton onClick={() => window.location.href='https://github.com/AnukulPr1me/React-Blog-App'}>
+              Github
+            </ProjectButton>
+            <ProjectButton onClick={() => window.location.href='https://github.com/'}>
+              Live Demo
+            </ProjectButton>
+          </ButtonContainer>
+        </ColorContainer>
+      </ProjectContainer>
+      <ProjectContainer>
+        <ColorContainer>
+          <div className="article-container">
+            <ProjectImg
+              src='./images/project-1.png'
+              alt="Project 1"
+              className="project-img"
+            />
+          </div>
+          <ProjectTitle>Blog App</ProjectTitle>
+          <ButtonContainer>
+            <ProjectButton onClick={() => window.location.href='https://github.com/AnukulPr1me/React-Blog-App'}>
+              Github
+            </ProjectButton>
+            <ProjectButton onClick={() => window.location.href='https://github.com/'}>
+              Live Demo
+            </ProjectButton>
+          </ButtonContainer>
+        </ColorContainer>
+      </ProjectContainer>
     </ProjectList>
   </ProjectsContainer>
 );
@@ -59,6 +103,8 @@ const ProjectsContainer = styled.section`
 const ProjectList = styled.div`
   display: flex;
   gap: 20px;
+   flex-wrap: wrap;
+    justify-content: space-around;
 `;
 
 const ProjectContainer = styled.div`
