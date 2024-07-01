@@ -54,14 +54,14 @@ const ProjectSection = () => (
         <ColorContainer>
           <div className="article-container">
             <ProjectImg
-              src='./images/project-1.png'
-              alt="Project 1"
+              src='./images/project-3.webp'
+              alt="Project 3"
               className="project-img"
             />
           </div>
-          <ProjectTitle>Blog App</ProjectTitle>
+          <ProjectTitle>Weather App</ProjectTitle>
           <ButtonContainer>
-            <ProjectButton onClick={() => window.location.href='https://github.com/AnukulPr1me/React-Blog-App'}>
+            <ProjectButton onClick={() => window.location.href='https://github.com/sudhanshusingh07/JAVA_Script_minor_projects/tree/main/weather-app'}>
               Github
             </ProjectButton>
             <ProjectButton onClick={() => window.location.href='https://github.com/'}>
