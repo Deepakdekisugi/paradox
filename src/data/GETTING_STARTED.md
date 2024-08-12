@@ -26,6 +26,6 @@ Follow us on social media and join our Discord server to stay updated on club ac
 
 Above all, use your time with the Paradox Coding Club as an opportunity to learn and grow as a developer. Take advantage of the resources available to you, ask questions, and don't be afraid to try new things. We're here to support you every step of the way on your coding journey.
 
-If you have any questions or need assistance at any point, feel free to reach out to us at [paradoxcodingclub@outlook.com](mailto:paradoxcodingclub@outlook.com). We're here to help!
+If you have any questions or need assistance at any point, feel free to reach out to us at [paradoxcodingclub@gmail.com](mailto:paradoxcodingclub@gmail.com). We're here to help!
 
 Happy coding! 🚀

@@ -34,7 +34,7 @@ If you witness or experience behavior that violates this Code of Conduct, please
 
 By participating in the Paradox Coding Club, you agree to uphold the principles outlined in this Code of Conduct and to contribute to creating a positive and inclusive community for all members. Together, we can build a supportive and welcoming environment where everyone can learn, grow, and thrive.
 
-If you have any questions or concerns regarding this Code of Conduct, please reach out to the club organizers at [paradoxcodingclub@outlook.com](mailto:paradoxcodingclub@outlook.com).
+If you have any questions or concerns regarding this Code of Conduct, please reach out to the club organizers at [paradoxcodingclub@gmail.com](mailto:paradoxcodingclub@gmail.com).
 
 Thank you for your cooperation and commitment to fostering a respectful and inclusive community!
 
